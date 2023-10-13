@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Привет ✨,
+Привет 👋,
 
 Я Костя<br>
 Начинающий разраб<br>
