@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 Начинающий разраб<br>
 Сейчас нахожусь в активном поиске работы в сфере frontend разработки<br>
 Telegram: k_bartosh 💬 <br><br>
--->
-
-
 
 🧰 Мой стек
 
@@ -28,3 +25,5 @@ Telegram: k_bartosh 💬 <br><br>
 🔎 В настоящий момент я изучаю
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+-->
+
