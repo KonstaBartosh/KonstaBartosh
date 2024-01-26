@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
 Привет 👋,
 
 Я Костя<br>
@@ -25,5 +28,4 @@ Telegram: k_bartosh 💬 <br><br>
 🔎 В настоящий момент я изучаю
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
--->
 
